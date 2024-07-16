@@ -29,7 +29,7 @@ O projeto contém os seguintes arquivos:
 2. Clone este repositório:
 
     ```sh
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/zerezeze/Biblioteca-em-Ruby
     cd nome-do-repositorio
     ```
 
